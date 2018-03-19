@@ -7,8 +7,5 @@ namespace pis1
 {
     class NewClass
     {
-        void nekapromjena()
-        {
-        }
     }
 }
